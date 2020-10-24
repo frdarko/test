@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+  <channel id="big-time-rush-es">
+    <display-name lang="es">Big Time Rush</display-name>
+  </channel>
+
         <channel id="big-time-rush-es">
 			<display-name>Big Time Rush</display-name>
 			<display-name>910</display-name>
