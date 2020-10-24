@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-  <channel id="big-time-rush-es">
-    <display-name lang="es">Big Time Rush</display-name>
-  </channel>
 
         <channel id="big-time-rush-es">
-			<display-name>Big Time Rush</display-name>
-			<display-name>910</display-name>
-			<desc>Descubre en esta serie de Nickelodeon las aventuras de 4 grandes amigos que persiguen su sueño en Hollywood, haciendo lo que más les gusta: cantar juntos.</desc>
-			<icon src="http://images.pluto.tv/channels/5f1aa7aab66c76000790ee7e/solidLogoPNG.png"/>
+			<display-name>Big Time Rush</display-name
 
 	</channel>
 	<programme start="20201024074400 +0200" stop="20201024081000 +0200" channel="big-time-rush-es">
